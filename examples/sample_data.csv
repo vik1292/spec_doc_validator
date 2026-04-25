@@ -1,0 +1,8 @@
+customer_id,first_name,last_name,email,status,country_code,date_of_birth,annual_revenue,is_verified,created_at
+1001,Alice,Smith,alice.smith@example.com,active,GB,1985-03-12,75000.00,true,2023-01-15T10:30:00Z
+1002,Bob,Jones,bob.jones@example.com,inactive,US,1990-07-04,120000.50,false,2023-02-20T08:00:00Z
+1003,Carol,White,carol.white@example.com,active,AU,,48000.00,true,2023-03-10T14:15:00Z
+1004,Dave,Brown,dave.brown@example.com,suspended,gb,1978-11-22,,-1,2023-04-01T09:00:00Z
+1005,Eve,Davis,not-an-email,active,US,2099-01-01,0.00,true,2023-05-05T12:00:00Z
+1006,Frank,Miller,frank.miller@example.com,unknown,USA,1995-06-30,30000.00,yes,2023-06-01T07:45:00Z
+1001,Alice,Smith,alice.smith@example.com,active,GB,1985-03-12,75000.00,true,2023-01-15T10:30:00Z
